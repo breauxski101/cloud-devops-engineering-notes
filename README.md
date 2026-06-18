@@ -1,52 +1,77 @@
-# Cloud & DevOps Engineering Notes
+# Cloud & DevOps Engineering Portfolio
 
-A structured, hands-on learning journey from Linux fundamentals to cloud infrastructure and DevOps engineering.
+A structured, hands-on learning journey from Linux fundamentals to full cloud and DevOps engineering practices.
+
+This repository documents my progression through real infrastructure concepts using Linux, AWS, Docker, Terraform, CI/CD, and Kubernetes.
 
 ---
 
-# 🚀 About This Repository
+# 📌 About This Repository
 
-This repository demonstrates my progression into Cloud and DevOps Engineering through:
+This is not a collection of notes.
 
-- Linux system administration
-- AWS cloud infrastructure (hands-on)
-- DevOps tooling (Docker, Terraform, CI/CD)
-- Real-world labs and projects
+It is a **progressive cloud engineering portfolio** built through:
 
-This is not a note collection — it is an evolving engineering knowledge base built through practical experience.
+- Linux system administration practice
+- AWS cloud infrastructure labs
+- DevOps automation workflows
+- Infrastructure as Code (Terraform)
+- Containerization (Docker)
+- CI/CD pipelines (GitHub Actions)
+- Kubernetes orchestration
 
 ---
 
 # 🧱 Repository Structure
 
-## Linux Fundamentals
-Core operating system knowledge:
+## 🐧 Linux Fundamentals
+Core operating system and server management skills:
 - File system navigation
 - Users and permissions
 - Processes and services
 - Networking basics
 - SSH
-- Shell scripting
+- Shell scripting basics
 
 ---
 
-## AWS Cloud (In Progress)
-Cloud infrastructure and architecture:
-- EC2 (virtual servers)
+## ☁️ AWS Cloud Fundamentals
+Cloud infrastructure concepts and hands-on labs:
+- EC2 (compute)
 - IAM (security & access control)
-- S3 (object storage)
+- S3 (storage)
 - VPC (networking)
-- CloudWatch (monitoring)
 
 ---
 
-## DevOps Tools (Upcoming)
-Automation and infrastructure management:
-- Git & GitHub workflows
-- Docker containers
+## 🐳 DevOps Tools & Automation
+Infrastructure and deployment automation:
+- Docker (containerization)
 - Terraform (Infrastructure as Code)
-- CI/CD pipelines (GitHub Actions)
-- Kubernetes basics
+- GitHub Actions (CI/CD pipelines)
+- Kubernetes (container orchestration)
+
+---
+
+## 🧪 Labs & Hands-On Practice
+Step-by-step execution guides and learning labs:
+- EC2 deployment lab
+- S3 static website hosting
+- IAM user & policy lab
+- VPC networking lab
+- Docker containerization lab
+- CI/CD pipeline lab
+- Kubernetes deployment lab
+
+---
+
+## 🚀 Capstone Project
+End-to-end DevOps system design combining:
+- AWS infrastructure
+- Dockerized application
+- Terraform provisioning
+- CI/CD automation
+- Kubernetes deployment
 
 ---
 
@@ -55,75 +80,94 @@ Automation and infrastructure management:
 ## Phase 1: Foundations (Month 1–2)
 - Linux fundamentals
 - Networking basics
-- AWS EC2, IAM, S3
+- AWS core services (EC2, IAM, S3)
 - First cloud deployments
 
 ---
 
 ## Phase 2: Cloud + Automation (Month 3–4)
-- AWS deeper concepts (VPC, security groups)
-- Python automation scripts
-- Docker introduction
-- Infrastructure projects
+- Advanced AWS concepts (VPC, security groups)
+- Docker containerization
+- Basic infrastructure automation
+- First CI/CD pipelines
 
 ---
 
-## Phase 3: DevOps Tools (Month 5–6)
-- Terraform infrastructure as code
-- CI/CD pipelines
-- Kubernetes basics
-- Monitoring and observability
-- Capstone project
+## Phase 3: DevOps Engineering (Month 5–6)
+- Terraform Infrastructure as Code
+- Kubernetes orchestration
+- Advanced CI/CD workflows
+- Monitoring and observability basics
+- Capstone project completion
 
 ---
 
 # 📊 Current Progress
 
-## Linux
+## 🐧 Linux
 - Command line fundamentals
 - File system navigation
-- Permissions and users
-- Processes and services
-- SSH access
+- Users and permissions
+- Process management
+- SSH basics
 
 ---
 
-## AWS
-- EC2 fundamentals (hands-on)
-- IAM basics (in progress)
-- S3 (next)
-- First real cloud labs underway
+## ☁️ AWS
+- EC2 deployment (in progress)
+- IAM security model (in progress)
+- S3 static hosting (upcoming)
+- VPC networking (upcoming)
 
 ---
 
-# 🎯 Projects (Coming Soon)
-
-- AWS Static Website Hosting (S3 + CloudFront)
-- EC2 Deployment Lab (Nginx server)
-- Terraform Infrastructure Project
-- CI/CD Pipeline with GitHub Actions
-- Kubernetes Deployment Project
+## 🐳 DevOps Tools
+- Docker (planned)
+- CI/CD pipelines (planned)
+- Terraform (planned)
+- Kubernetes (planned)
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Goals
 
-Preparing for entry-level roles:
+By the end of this journey, this repository will demonstrate:
+
+- Strong Linux administration skills
+- AWS cloud infrastructure understanding
+- Practical DevOps tooling experience
+- Ability to design and deploy cloud systems
+- Hands-on engineering problem solving
+
+---
+
+# 🧠 Philosophy
+
+This repository follows a simple principle:
+
+> Learn → Practice → Document → Build → Improve
+
+No rushing. No skipping fundamentals. Consistent progression.
+
+---
+
+# 📌 Target Roles
+
+This learning path prepares for:
+
 - Junior Cloud Engineer
+- Junior DevOps Engineer
 - Cloud Operations Engineer
-- DevOps Intern
 - Platform Support Engineer
 - IT Operations Analyst
 
 ---
 
-# 🧠 Mindset
+# 🚀 Note on Progress
 
-This repository represents continuous learning through:
+This repository is actively evolving.
 
-- Hands-on labs
-- Real cloud environments
-- Infrastructure experimentation
-- Iterative improvement
+Early stages focus on fundamentals.  
+Later stages focus on real-world deployment systems and automation.
 
 ---
